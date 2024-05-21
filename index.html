@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Curse of Strahd Codex</title>
+    <link rel="stylesheet" href="style.css" />
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&display=swap" rel="stylesheet">
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <main>
+        <header>
+            <h1>Codex de Barovie</h1>
+        </header>
+        <nav id="navigation">
+            <button id="showAll">Tout</button>
+            <button data-filter="playerCharacters">Compagnons</button>
+            <button data-filter="characters">Personnages</button>
+            <button data-filter="places">Lieux</button>
+        </nav>
+        <div id="dataDisplay">
+            <input id="search-box" type="search" title="Search my projects" class="search-bar" placeholder="Search for one of my projects" />
+            <ul class="list" id="projectsList"></ul>
+        </div>
+        <footer>
+            <p class="copyright">&copy; 2024 Cheese Goblin</p>
+        </footer>
+        <button id="gotoTop" title="Go to top">
+            <img src="Images/arrow_up.png" alt="Go to top button">
+        </button>        
+    </main>
+</body>
+</html>

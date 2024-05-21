@@ -1,0 +1,88 @@
+:root {
+    --text-color: #d4d4d4;
+    --alt-text-color: #d4d4d4; /* Change to white */
+    --background-color: #1e1e1e;
+    --gradient: linear-gradient(0deg, #2e2e2e, #1e1e1e);
+    --square-color: #2e2e2e;
+    scroll-behavior: smooth;
+}
+
+/* Background */
+body {
+    height: 100%;
+    margin: 0;
+    background-color: var(--background-color);
+    overflow-x: hidden;
+}
+
+/* Main content styling */
+main {
+    padding: 5vh 5vw;
+    color: var(--text-color);
+    font-family: "Cormorant Garamond", serif;
+}
+
+.place-table {
+    width: 100%;
+    border: none;
+    background: transparent;
+    margin: 0 auto;
+}
+
+.portrait-cell {
+    vertical-align: top;
+    width: 50%;
+    padding-top: 100px;
+    margin: 0;
+}
+
+.portrait {
+    object-fit: cover;
+    border: none;
+    border-radius: 5px;
+    width: 100%;
+    aspect-ratio: 1/1;
+}
+
+.description-cell {
+    vertical-align: top;
+    width: 50%;
+    padding: 2rem;
+    font-size: 1.1rem;
+}
+
+h1 {
+    font-family: "Cinzel", serif;
+    font-size: 3rem;
+    margin-bottom: 1rem;
+    color: var(--alt-text-color); /* Change to white */
+    text-align: center;
+}
+
+p {
+    margin-bottom: 1rem;
+    line-height: 1.6;
+}
+
+p:last-child {
+    margin-bottom: 0;
+}
+
+@media screen and (max-width: 800px) {
+    .portrait-cell, .description-cell {
+        display: block;
+        width: 100%;
+    }
+    .portrait {
+        width: 100%;
+        margin: auto;
+        display: block;
+    }
+    .description-cell {
+        padding: 1rem;
+    }
+    h1 {
+        font-size: 2rem;
+        text-align: center;
+    }
+}

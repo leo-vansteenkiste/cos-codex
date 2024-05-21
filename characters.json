@@ -1,0 +1,182 @@
+[
+    {
+        "name": "Anastrasya Kearlova",
+        "description": "Anastrasya Karelova est l'une des épouses de Strahd von Zarovich.",
+        "tags": ["épouse", "vampire"],
+        "link": "Characters/anastrasya-kaerlova.html"
+    },
+    {
+        "name": "Bildrath Cantemir",
+        "description": "Bildrath tient un commerce à son nom au village de Barovie. Escroc, il pratique des prix démesurés sans remords.",
+        "tags": ["commerçant", "escroc"],
+        "link": "Characters/bildrath-cantemir.html"
+    },
+    {
+        "name": "Donovich",
+        "description": "Donovich était le prêtre de l’église du village de Barovie, capturant des villageois pour nourrir son fils vampire, Doru.",
+        "tags": ["prêtre", "Barovie"],
+        "link": "Characters/donovich.html"
+    },
+    {
+        "name": "Doru",
+        "description": "Doru est le fils vampire du prêtre Donovich, enfermé dans la cave de l'église et nourri de sang d'innocents.",
+        "tags": ["vampire", "Barovie"],
+        "link": "Characters/doru.html"
+    },
+    {
+        "name": "Escher",
+        "description": "Escher fait partie de la cour vampirique de Strahd von Zarovich.",
+        "tags": ["vampire", "cour"],
+        "link": "Characters/escher.html"
+    },
+    {
+        "name": "Esmeralda d'Avenir",
+        "description": "Esmeralda est une Vistanni élevée par Rudolf van Richten, chasseur de monstres, et possède des connaissances et technologies uniques.",
+        "tags": ["chasseur de monstres", "Vistanni"],
+        "link": "Characters/esmerada-d'avenir.html"
+    },
+    {
+        "name": "Fiona Wachter",
+        "description": "Fiona Wachter, figure influente de Vallaki, souhaite renverser le Baron Vargas et sert un Sombre Seigneur.",
+        "tags": ["noble", "Vallaki"],
+        "link": "Characters/fiona-wachter.html"
+    },
+    {
+        "name": "Ireena Kolyanovich",
+        "description": "Ireena, fille adoptive de l'ancien bourgmestre de Barovie, est poursuivie par plusieurs individus dont Strahd von Zarovich.",
+        "tags": ["Barovie", "bourgmestre"],
+        "link": "Characters/ireena-kolyanovich.html"
+    },
+    {
+        "name": "Ismark Kolyanovich",
+        "description": "Ismark, fils du défunt bourgmestre de Barovie, a pris la relève et cherche à rendre le village plus sûr.",
+        "tags": ["bourgmestre", "Barovie"],
+        "link": "Characters/ismark-kolyanovich.html"
+    },
+    {
+        "name": "Izek Strazni",
+        "description": "Izek Strazni, chef de la milice de Vallaki, était un homme cruel obsédé par Ireena.",
+        "tags": ["milice", "Vallaki"],
+        "link": "Characters/izek-strazni.html"
+    },
+    {
+        "name": "Kiril Stoyanovich",
+        "description": "Kiril est le chef des loups-garous de Barovie, servant Strahd von Zarovich et un Sombre Seigneur.",
+        "tags": ["loups-garous", "Barovie"],
+        "link": "Characters/kiril-storynovich.html"
+    },
+    {
+        "name": "Lara",
+        "description": "Lara est une jeune femme muette et sans-âme que le groupe a sauvée. Elle a un lien particulier avec Elric.",
+        "tags": ["muette", "sans-âme"],
+        "link": "Characters/lara.html"
+    },
+    {
+        "name": "Ludmilla Vilisevie",
+        "description": "Ludmilla Vilisevie est l'une des épouses de Strahd von Zarovich.",
+        "tags": ["épouse", "vampire"],
+        "link": "Characters/ludmilla-vilisevie.html"
+    },
+    {
+        "name": "Madame Eva",
+        "description": "Madame Eva, influente parmi les Vistanis, lit les destins à l'aide de cartes de tarot et sert Strahd von Zarovich.",
+        "tags": ["Vistanni", "tarot"],
+        "link": "Characters/madame-eva.html"
+    },
+    {
+        "name": "Morgantha",
+        "description": "Morgantha, vieille dame étrange, vend des tartes à la viande qui rendent temporairement plus forts mais provoquent une sensation de manque.",
+        "tags": ["vendeuse", "Barovie"],
+        "link": "Characters/morgantha.html"
+    },
+    {
+        "name": "Père Lucian Petrovich",
+        "description": "Le père Lucian Petrovich est un archiprêtre du culte du Seigneur de Lumière, occupant sa fonction à la Cathédrale de Saint Andral.",
+        "tags": ["archiprêtre", "cathédrale"],
+        "link": "Characters/pere-lucian-petrovich.html"
+    },
+    {
+        "name": "Rahadin",
+        "description": "Rahadin est le chambellan de Strahd von Zarovich et un elfe du crépuscule.",
+        "tags": ["chambellan", "elfe du crépuscule"],
+        "link": "Characters/rahadin.html"
+    },
+    {
+        "name": "Rictavio",
+        "description": "Rictavio, un demi-elfe intrigant, se présente comme un carnavalier et voyage avec une caravane contenant une chimère.",
+        "tags": ["carnavalier", "demi-elfe"],
+        "link": "Characters/rictavio.html"
+    },
+    {
+        "name": "Rudolf van Richten",
+        "description": "Rudolf van Richten, chasseur de monstres connu sous le nom de van Helsing, est en Barovie pour tuer Strahd von Zarovich.",
+        "tags": ["chasseur de monstres", "van Helsing"],
+        "link": "Characters/rudolf-van-richten.html"
+    },
+    {
+        "name": "Sieur Arthund Boarwin",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer blandit imperdiet interdum.",
+        "tags": ["chevalier", "noble"],
+        "link": "Characters/sieur-arthund-boarwin.html"
+    },
+    {
+        "name": "Sieur Damian Hargrove",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer blandit imperdiet interdum.",
+        "tags": ["chevalier", "noble"],
+        "link": "Characters/sieur-damian-hargrove.html"
+    },
+    {
+        "name": "Sieur Godfrey Gwilym",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer blandit imperdiet interdum.",
+        "tags": ["chevalier", "noble"],
+        "link": "Characters/sieur-godfrey-gwilym.html"
+    },
+    {
+        "name": "Sieur Robern Teray",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer blandit imperdiet interdum.",
+        "tags": ["chevalier", "noble"],
+        "link": "Characters/sieur-robern-teray.html"
+    },
+    {
+        "name": "Sieur Vladimir Horngaard",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer blandit imperdiet interdum.",
+        "tags": ["chevalier", "noble"],
+        "link": "Characters/sieur-vladimir-horngaard.html"
+    },
+    {
+        "name": "Skennis",
+        "description": "Skennis est un vieux loup-garou de la forteresse, ancien chef du clan souhaitant revenir aux anciennes traditions.",
+        "tags": ["loup-garou", "forteresse"],
+        "link": "Characters/skennis.html"
+    },
+    {
+        "name": "Strahd von Zarovich",
+        "description": "Strahd von Zarovich est le Seigneur de Barovie, une figure terrifiante et omniprésente.",
+        "tags": ["Seigneur", "vampire"],
+        "link": "Characters/strahd-von-zarovich.html"
+    },
+    {
+        "name": "Urwin Martikov",
+        "description": "Urwin Martikov, tenancier de l'Auberge de l'Eau Bleu à Vallaki, fait partie de la puissante famille Martikov.",
+        "tags": ["aubergiste", "Vallaki"],
+        "link": "Characters/urwin-martikov.html"
+    },
+    {
+        "name": "Vasili von Holtz",
+        "description": "Vasili von Holtz, un homme élégant et riche, est un allié prêt à aider les personnages.",
+        "tags": ["allié", "riche"],
+        "link": "Characters/vasili-von-holtz.html"
+    },
+    {
+        "name": "Volenta Popfsky",
+        "description": "Volenta Popfsky est l'une des épouses de Strahd von Zarovich, ressemblant à une femme qui attaqua le groupe sur le pont du Tser.",
+        "tags": ["épouse", "vampire"],
+        "link": "Characters/volenta-popfsky.html"
+    },
+    {
+        "name": "Zuleka",
+        "description": "Zuleka est une louve-garou cherchant à venger la mort de son mari Bjorn, tué par Kiril.",
+        "tags": ["loup-garou", "vengeance"],
+        "link": "Characters/zuleka.html"
+    }
+]

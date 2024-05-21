@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Argynvostholt",
+        "description": "Argynvostholt est un château en ruines en Barovie, ancien sanctuaire de l'Ordre du Dragon d'Argent, désormais hanté par des chevaliers ressuscités.",
+        "tags": ["château", "ruines", "Barovie", "Ordre du Dragon d'Argent", "seigneur de lumière"],
+        "link": "Places/argynvostholt.html"
+    }
+    ,
+    {
+        "name": "Barovie",
+        "description": "La Barovie est une région sombre gouvernée par le vampire Strahd von Zarovich, où la brume persistante obscurcit le soleil et la lune.",
+        "tags": ["région", "obscurité", "vampire", "Strahd von Zarovich"],
+        "link": "Places/barovie.html"
+    }
+    ,
+    {
+        "name": "Forteresse des Loups-garous",
+        "description": "Située dans les bois de Barovie, la forteresse en bois est le refuge des loups-garous, marquée par la Tour de la Lune effondrée et les sombres rituels imposés par Kiril, serviteur de Strahd.",
+        "tags": ["forteresse", "loups-garous", "Barovie", "Strahd von Zarovich"],
+        "link": "Places/forteresse-des-loups-garous.html"
+    }
+    ,
+    {
+        "name": "Ravenloft",
+        "description": "Le Château de Ravenloft, sombre et imposant, domine la vallée de Barovie. Ses murs de pierre noire et ses tours élancées en font un lieu de majesté sinistre, abritant de nombreux secrets et le seigneur vampire Strahd.",
+        "tags": ["château", "Barovie", "vampire", "Strahd von Zarovich"],
+        "link": "Places/ravenloft.html"
+    }
+    ,
+    {
+        "name": "Ruines de Berez",
+        "description": "Les ruines de Berez, envahies par les marécages et la corruption, sont hantées par les vestiges d'une grandeur passée et abritent la sorcière Baba Lysaga.",
+        "tags": ["ruines", "marécages", "Barovie", "Baba Lysaga"],
+        "link": "Places/berez.html"
+    }
+    ,
+    {
+        "name": "Tour du Magicien",
+        "description": "La mystérieuse Tour du Magicien, située au milieu du Lac Baratok, est une structure imposante et ancienne, autrefois la résidence d'un magicien oublié.",
+        "tags": ["tour", "magicien", "lac Baratok", "Barovie"],
+        "link": "Places/tour.html"
+    }
+    ,
+    {
+        "name": "Vallaki",
+        "description": "Vallaki, bastion de civilisation en Barovie, est protégée par de grands murs en pierre. Bien que paraissant un havre de paix, la ville est rongée par la paranoïa et l'oppression sous le règne du Baron Varkas.",
+        "tags": ["ville", "Barovie", "protection", "oppression"],
+        "link": "Places/vallaki.html"
+    }
+    ,
+    {
+        "name": "Village de Barovie",
+        "description": "Le village de Barovie, au pied des montagnes dominées par le château de Ravenloft, est marqué par des bâtiments vieillis et une ambiance oppressante. L'église délabrée de la Sainte Lumière est dirigée par le prêtre Donovich.",
+        "tags": ["village", "Barovie", "Ravenloft", "isolement"],
+        "link": "Places/village-de-barovie.html"
+    }
+    
+]

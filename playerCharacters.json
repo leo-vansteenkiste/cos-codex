@@ -1,0 +1,35 @@
+[
+    {
+        "name": "Alryn Lumenor",
+        "description": "Alryn, un elfe du crépuscule à la peau halée et aux yeux violets, possède un parasite lui donnant des pouvoirs magiques. Il vient de la famille royale des Lumenors.",
+        "tags": ["elfe", "bête", "ensorceleur"],
+        "link": "PlayerCharacters/alryn.html"
+    }
+    ,
+    {
+        "name": "Elric",
+        "description": "Elric, un homme mystérieux doté de pouvoirs occultes et démoniaques, sert un Sombre Seigneur nommé Sanguis.",
+        "tags": ["humain", "démon", "sombre seigneur", "occultiste", "homme brisé"],
+        "link": "PlayerCharacters/elric.html"
+    },    
+    {
+        "name": "Okku",
+        "description": "Okku est un goliath fort et rustre, mais calme en toute circonstance. Il est un ours-garou capable de se contrôler et excelle en combat.",
+        "tags": ["goliath", "barbare", "ours-garou"],
+        "link": "PlayerCharacters/okku.html"
+    }
+    ,
+    {
+        "name": "Osnos",
+        "description": "Osnos est un demi-elfe mystérieux et chasseur, cherchant à sauver l'âme de son fils emprisonnée dans une pierre d'émeraude.",
+        "tags": ["demi-elfe", "elfe", "rôdeur", "vert"],
+        "link": "PlayerCharacters/osnos.html"
+    }
+    ,
+    {
+        "name": "Ron Côte d'Acier",
+        "description": "Ron Côte d'Acier, un jeune chevalier et clerc courageux, sert le Seigneur de Lumière. Dernier chevalier de l'Ordre du Dragon d'Argent, il cherche à restaurer cet ordre.",
+        "tags": ["humain", "clerc", "seigneur de lumière", "chevalier"],
+        "link": "PlayerCharacters/ron.html"
+    }    
+]
