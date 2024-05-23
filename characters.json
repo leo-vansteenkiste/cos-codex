@@ -126,6 +126,12 @@
         "link": "Characters/sieur-damian-hargrove.html"
     },
     {
+        "name": "Sieur Erich Norinthaal",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer blandit imperdiet interdum.",
+        "tags": ["chevalier", "noble"],
+        "link": "Characters/sieur-erich-norinthaal.html"
+    },
+    {
         "name": "Sieur Godfrey Gwilym",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer blandit imperdiet interdum.",
         "tags": ["chevalier", "noble"],
